@@ -43,6 +43,12 @@ City TLC about your progress.
 You are a data professional in a data analytics firm called Automatidata. Their client, the New York City Taxi & Limousine Commission (New York City TLC),
 was impressed with the work you have done and has requested that you build a machine learning model to predict if a customer will not leave a tip.
 They want to use the model in an app that will alert taxi drivers to customers who are unlikely to tip, since drivers depend on tips.
+**Conclusion**:
+
+The importance plot tells that ‘mean_duration’, ‘predicted_fare’ and ‘mean_distance’ are the three most important features.
+
+The Random Forest model is not a great model, though it could still be useful depending on the situation/objective. For instance, it could be very useful if
+the objective to to help in giving idea whether or not a customer will leave a relatively good tip. It may be worth it to test with a group of drivers.
 
 **KEY INSIGHT**:
 
