@@ -44,5 +44,20 @@ You are a data professional in a data analytics firm called Automatidata. Their 
 was impressed with the work you have done and has requested that you build a machine learning model to predict if a customer will not leave a tip.
 They want to use the model in an app that will alert taxi drivers to customers who are unlikely to tip, since drivers depend on tips.
 
+**KEY INSIGHT**:
 
+The model reveals that for every mile travelled the fare increases by $2. Or for every 3.57 miles travelled, the fare increases by $7.13.
+
+The model provides a generally strong and reliable fare prediction that can be used in downstream modeling efforts.
+
+These findings can be used to create an app that allows NYC TLC riders to see the estimated fare before their ride begins.
+Model Metrics: Model metrics:
+
+R-squared 0.868: This means that 86.8% of the variance is described by the model.
+
+MAE 2.13
+
+MSE: 14.34
+
+RMSE 3.8
 
